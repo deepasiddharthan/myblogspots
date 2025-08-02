@@ -1,2 +1,1 @@
-# myblogspots
 My Blog Spots
